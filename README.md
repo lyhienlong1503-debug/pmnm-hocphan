@@ -1,8 +1,8 @@
 # pmnm-hocphan
 ## License
 
-Node.js is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+## Giấy phép
 
-This project also depends on external libraries that may use different open-source
-licenses. For a complete list of included licenses, please see the
-[LICENSE](https://github.com/nodejs/node/blob/main/LICENSE) file.
+Mã nguồn trong kho này được phát hành theo [Giấy phép MIT](LICENSE).
+
+SPDX-License-Identifier: MIT
